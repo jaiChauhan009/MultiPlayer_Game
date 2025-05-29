@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872334837693",
+    "project_id": "multiplayergame-39eed",
+    "storage_bucket": "multiplayergame-39eed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872334837693:android:c4bfeffd96867d48fa34d4",
+        "android_client_info": {
+          "package_name": "com.example.multiplayer_game.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrVm5qhUtTekTxyFOvabDBTUeyyTcByY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
